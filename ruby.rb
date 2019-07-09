@@ -26,6 +26,7 @@ x.times do
  words = "I like pancakes"
 p words.upcase
 
+"hi there".length.to_s 
 
 #### 3. Create a method that takes in a sentence and returns a new sentence with the first letter of each word capitalized.
 

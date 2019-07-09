@@ -31,9 +31,7 @@ rspec car_spec.rb
 methods? 
 
 //Googled Answer
-initailize 
-super 
-props
+has-many, belongs-to, has-one
 
 
 #### 5. What do we call the #{} convention used below? What is it accomplishing?
